@@ -7,6 +7,18 @@
   font-family: 'Poppins',sans-serif;
 }
 
+:root {
+    --color-blue : #122b52;
+    --color-lightblue: #1f4482;
+    --color-darkblue: #0e2241;
+    --color-red: #fd5e55;
+    --color-white: #FFFFFF;
+    --color-white1: #E7E8E4;
+    --color-black: #000;
+    --color-grey: darkgrey;
+    --color-lightgrey : #c7c5c4;
+    --box-shadow-1: 0 35px 55px rgba(0,0,0,.2);
+
 body
 {
   background: darkgrey;
